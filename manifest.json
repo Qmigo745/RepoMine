@@ -210,9 +210,9 @@
       "sha256": "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d"
     },
     {
-      "file": "jei-1.21.1-neoforge-19.27.0.336.jar",
-      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/jei-1.21.1-neoforge-19.27.0.336.jar",
-      "sha256": "2b6d84df11ab2bb94a75be8bac6790bfbb2c0112a1622cd5f5f234468a196721"
+      "file": "jei-1.21.1-neoforge-19.32.0.359.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/jei-1.21.1-neoforge-19.32.0.359.jar",
+      "sha256": "0169e38d4771b1a0a6bd9fc92734297105fff2f6ad8a4ed73ad38139b824ea54"
     },
     {
       "file": "kotlinforforge-5.11.0-all.jar",
@@ -308,6 +308,11 @@
       "file": "resourcefullib-neoforge-1.21-3.0.12.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/resourcefullib-neoforge-1.21-3.0.12.jar",
       "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "file": "sable-neoforge-1.21.1-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
+      "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
     },
     {
       "file": "sliceanddice-forge-4.2.4.jar",
