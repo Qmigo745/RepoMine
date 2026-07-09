@@ -1,0 +1,18 @@
+{
+  "pack_name": "Servidor Gael",
+  "minecraft_version": "1.21.1",
+  "loader": "NeoForge",
+  "loader_version": "21.1.233",
+  "mods": [
+    {
+      "file": "create-1.21.1-6.0.10.jar",
+      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1/create-1.21.1-6.0.10.jar",
+      "sha256": "PON_AQUI_EL_SHA256_DEL_ARCHIVO"
+    },
+    {
+      "file": "jei-1.21.1-19.21.0.247.jar",
+      "url": "https://github.com/TU_USUARIO/TU_REPO/releases/download/v1/jei-1.21.1-19.21.0.247.jar",
+      "sha256": "PON_AQUI_EL_SHA256_DEL_ARCHIVO"
+    }
+  ]
+}
