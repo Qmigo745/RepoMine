@@ -245,6 +245,12 @@
       "sha256": "d9ea421e7449a35cf3adc41c9f740156342b7b17a08b1be843660608af7b60f9"
     },
     {
+      "id": "holdmyitems",
+      "file": "holdmyitems-1.21.1-NeoForge-1.0.4.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/holdmyitems-1.21.1-NeoForge-1.0.4.jar",
+      "sha256": "06730c32c42e00d527b4b8db246f94da3ae4e2cfa949a78d3c3d461941ea73fc"
+    },
+    {
       "id": "invtweaks",
       "file": "invtweaks-1.21.1-1.3.2.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/invtweaks-1.21.1-1.3.2.jar",
