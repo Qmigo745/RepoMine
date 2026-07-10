@@ -160,6 +160,11 @@
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
     },
     {
+      "file": "FokusAPI-v4.5_MOD.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/FokusAPI-v4.5_MOD.jar",
+      "sha256": "9bf3b32674797a7e61c42ffefd9ed2c1526ef16329fa6dd11c97a3d357a85723"
+    },
+    {
       "file": "FpsOverlay-neoforge-1.21.1-5.2.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/FpsOverlay-neoforge-1.21.1-5.2.jar",
       "sha256": "4101c53632782f2ddc1eb0e227e2ee4442665615032e0728810045e3e0c91eb3"
@@ -323,6 +328,11 @@
       "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
       "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
+    },
+    {
+      "file": "sodium-neoforge-0.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
+      "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
     },
     {
       "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
