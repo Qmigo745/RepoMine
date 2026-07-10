@@ -325,11 +325,6 @@
       "sha256": "c3bd743a73eed3de14f6be5221fe68655cfeed0749f8f467f2ce2012ed1416bd"
     },
     {
-      "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
-      "sha256": "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403"
-    },
-    {
       "file": "sodium-neoforge-0.8.12+mc1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar",
       "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266"
