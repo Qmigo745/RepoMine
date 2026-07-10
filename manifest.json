@@ -246,9 +246,9 @@
     },
     {
       "id": "iris",
-      "file": "iris-neoforge-1.11.2+mc26.2.jar",
-      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/iris-neoforge-1.11.2%2Bmc26.2.jar",
-      "sha256": "d30e423e9bc052301a8f98c8043e2af27ca9bda1e11538e550074b4da5c8d69e"
+      "file": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
     },
     {
       "id": "jade",
