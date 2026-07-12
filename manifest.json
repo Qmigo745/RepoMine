@@ -125,6 +125,12 @@
       "sha256": "8f386f2ce75a66c220d0372421d322100b8123f385199f00b384a61c120f1849"
     },
     {
+      "id": "create_ultimate_factory",
+      "file": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
+      "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
+    },
+    {
       "id": "createdeco",
       "file": "createdeco-2.1.3.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/createdeco-2.1.3.jar",
