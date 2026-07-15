@@ -29,6 +29,12 @@
       "sha256": "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
     },
     {
+      "id": "baguettelib",
+      "file": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha256": "98addfb68b1e92d4f40ef37cdea8f46217bf7188991cc7347a3fc510a410f1e5"
+    },
+    {
       "id": "bettercombat",
       "file": "bettercombat-neoforge-2.3.2+1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/bettercombat-neoforge-2.3.2%2B1.21.1.jar",
