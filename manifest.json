@@ -71,6 +71,12 @@
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
     },
     {
+      "id": "copycats",
+      "file": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+      "sha256": "8480e2a62eaa625f75776831c1d8a9ef3d77d2d816fa2e67566c6ec25ba745d1"
+    },
+    {
       "id": "corpse",
       "file": "corpse-neoforge-1.21.1-1.1.13.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/corpse-neoforge-1.21.1-1.1.13.jar",
@@ -119,6 +125,12 @@
       "sha256": "1218d44f3fd65c1dc2fe59603704bfbb8806d3024978e28c69421802e40865ad"
     },
     {
+      "id": "create_connected",
+      "file": "create_connected-1.3.2-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/create_connected-1.3.2-mc1.21.1.jar",
+      "sha256": "90bdceac63cb0ebd5e51351e22136182b996512edef937d0635d2857b0a3f24b"
+    },
+    {
       "id": "create_extra_casing",
       "file": "create_extra_casing-4.0.4.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/create_extra_casing-4.0.4.jar",
@@ -129,6 +141,12 @@
       "file": "create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/create_ultimate_factory-2.2.4-neoforge-1.21.1.jar",
       "sha256": "b95dcdd43c859eaf1825f33b2b4c42226187a1e875d368b0b24ed0be1e0fa1b0"
+    },
+    {
+      "id": "createbigcannons",
+      "file": "createbigcannons-5.11.7+mc.1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/createbigcannons-5.11.7%2Bmc.1.21.1.jar",
+      "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
     },
     {
       "id": "createdeco",
@@ -147,6 +165,12 @@
       "file": "CreateDragonsPlus-1.11.2b.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/CreateDragonsPlus-1.11.2b.jar",
       "sha256": "9b15e464465a639de9ef5a935ae9fd94ea545904517d1428bc784a4012e0a1e2"
+    },
+    {
+      "id": "createpropulsion",
+      "file": "createpropulsion-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/createpropulsion-1.1.4.jar",
+      "sha256": "816329242ce595d0f8b8bd1a7ea00df48470d41f5b79240fab682bbfbe6f39a1"
     },
     {
       "id": "createrailwaysnavigator",
@@ -195,6 +219,12 @@
       "file": "entity_texture_features_1.21-neoforge-7.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/entity_texture_features_1.21-neoforge-7.1.jar",
       "sha256": "b2e396543c678b8378a2d5557a0cd3d24790364bff7e96edaf17921112d6176b"
+    },
+    {
+      "id": "extra_copycats",
+      "file": "extra_copycats-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/extra_copycats-1.0.2.jar",
+      "sha256": "afb39b4fe940275015e4809b5c69704346883f72139924da8f347ebf7032ab19"
     },
     {
       "id": "farmersdelight",
@@ -255,6 +285,18 @@
       "file": "holdmyitems-1.21.1-NeoForge-1.0.4.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/holdmyitems-1.21.1-NeoForge-1.0.4.jar",
       "sha256": "06730c32c42e00d527b4b8db246f94da3ae4e2cfa949a78d3c3d461941ea73fc"
+    },
+    {
+      "id": "hotstuff",
+      "file": "hotstuff-1.1.6.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/hotstuff-1.1.6.jar",
+      "sha256": "19b5d10dc212b6a75ce13f7e31e68e1378840cad5e871d1cecc55ce5323e9ddc"
+    },
+    {
+      "id": "interiors",
+      "file": "interiors-1.21.1-neoforge-0.6.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/interiors-1.21.1-neoforge-0.6.1.jar",
+      "sha256": "0d1326fb8b67623ae1c69a63b788dcdcecaf8df400c7d8e5e55ace79a5166fe5"
     },
     {
       "id": "invtweaks",
@@ -401,10 +443,22 @@
       "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
     },
     {
+      "id": "ritchiesprojectilelib",
+      "file": "ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge.jar",
+      "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
+    },
+    {
       "id": "sable",
       "file": "sable-neoforge-1.21.1-2.0.3.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
       "sha256": "da6c3b66238586603d1dcaa2afb012d36815fbce0a2d5938fbb2936701d42279"
+    },
+    {
+      "id": "sim_copycats",
+      "file": "sim_copycats-1.3.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sim_copycats-1.3.1.jar",
+      "sha256": "7220f4b785e4c7103630d6d26e04ef382e9c071392cb8b2e47cc31603e2e5343"
     },
     {
       "id": "sliceanddice",
