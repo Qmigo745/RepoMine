@@ -449,6 +449,12 @@
       "sha256": "07d5f74f0734aa171b1001e6570f53fa0469d8b81e9bfb4032e5697ba008f869"
     },
     {
+      "id": "reeses_sodium_options",
+      "file": "reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/reeses-sodium-options-neoforge-2.2.3%2Bmc1.21.1.jar",
+      "sha256": "25812f308a87c04686de6ac9f24a8073101f81864f0eb9abf348f95d73a6629e"
+    },
+    {
       "id": "refinedstorage_jei_integration",
       "file": "refinedstorage-jei-integration-neoforge-1.0.0.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/refinedstorage-jei-integration-neoforge-1.0.0.jar",
