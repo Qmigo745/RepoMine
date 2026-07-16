@@ -515,12 +515,6 @@
       "sha256": "d78002d50865db928fbf2c17c716ffcbbd6d33bff88aa1f0f3a04152a2665e25"
     },
     {
-      "id": "sodiumoptionsapi",
-      "file": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-      "sha256": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02"
-    },
-    {
       "id": "sophisticatedbackpacks",
       "file": "sophisticatedbackpacks-1.21.1-3.25.55.1852.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sophisticatedbackpacks-1.21.1-3.25.55.1852.jar",
