@@ -203,12 +203,6 @@
       "sha256": "336536a181faf6db7f756393248e786382fdd0c1c2760ff2dfc4b265859321b7"
     },
     {
-      "id": "createsa_tank_fix",
-      "file": "createsa_tank_fix-1.3.jar",
-      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/createsa_tank_fix-1.3.jar",
-      "sha256": "1ee01d7687f04929732ed5515c36087e518983b95cbe637af5cdbcd375002e7a"
-    },
-    {
       "id": "createtransmission",
       "file": "createtransmission-1.2.1+neoforge-create6-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/createtransmission-1.2.1%2Bneoforge-create6-1.21.1.jar",
@@ -513,6 +507,12 @@
       "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
       "sha256": "d78002d50865db928fbf2c17c716ffcbbd6d33bff88aa1f0f3a04152a2665e25"
+    },
+    {
+      "id": "sodiumoptionsapi",
+      "file": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Qmigo745/RepoMine/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "sha256": "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02"
     },
     {
       "id": "sophisticatedbackpacks",
